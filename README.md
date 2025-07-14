@@ -1,7 +1,7 @@
 # 🏠 Z-iNterior-Dataset (Coming Soon!)
 
 Welcome to the **Z-iNterior-Dataset** – a high-fidelity synthetic dataset focused on indoor office and home scenes, tailored for tasks in computer vision and machine learning.
-<img width="1950" height="950" alt="Zinterior" src="https://github.com/user-attachments/assets/5a1a86ec-21a8-4ca0-9af8-daf05eb6046a" />
+<img width="1950" height="950" alt="Zinterior" src="https://github.com/user-attachments/assets/6de8639a-8abd-43aa-b259-e794bd4ec857" />
 
 ## 📦 What’s Inside?
 
