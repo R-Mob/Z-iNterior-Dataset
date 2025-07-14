@@ -29,7 +29,7 @@ The dataset is currently being finalized and will be publicly released **soon**.
 
 ## 📫 Contact
 
-For collaborations or inquiries, please reach out to [Your Name] via GitHub or open an issue in this repo.
+For collaborations or inquiries, please reach out via GitHub or open an issue in this repo.
 
 ---
 
